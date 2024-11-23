@@ -1,0 +1,7 @@
+kivy
+uaiutomator2 
+time
+adb-shell
+buildozer
+pyjnius 
+threading
