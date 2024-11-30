@@ -1,15 +1,15 @@
 [app]
 
 # (str) Title of your application
-title = My Application
+title = xcoin
 
 # (str) Package name
-package.name = myapp
+package.name = xcoin
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
 
-# (str) Source code where the main.py live
+(str) Source code where the main.py live
 source.dir = .
 
 # (list) Source files to include (let empty to include all the files)
@@ -44,10 +44,10 @@ requirements = python3,kivy
 # requirements.source.kivy = ../../kivy
 
 # (str) Presplash of the application
-#presplash.filename = %(source.dir)s/data/presplash.png
+#presplash.filename = %(source.dir)s/icon.jpg
 
 # (str) Icon of the application
-#icon.filename = %(source.dir)s/data/icon.png
+#icon.filename = %(source.dir)s/icon.jpg
 
 # (list) Supported orientations
 # Valid options are: landscape, portrait, portrait-reverse or landscape-reverse
